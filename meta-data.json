@@ -3,7 +3,7 @@
     "router_url": "http://192.168.0.1/#reboot",
     "credentials": {
       "username": "admin",
-      "password": "shihan70198"
+      "password": "admin"
     },
        "Driver": {
       "path": "geckodriver.exe"
