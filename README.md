@@ -41,5 +41,5 @@ This is particularly useful for:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/router-reboot.git
-cd router-reboot
+git clone [https://github.com/yourusername/router-reboot.git](https://github.com/shifatsrm09/Router-Reboot-Automation.git
+
