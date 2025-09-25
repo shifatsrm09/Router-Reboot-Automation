@@ -3,8 +3,12 @@
 
 # 🚀 Router Reboot Automation
 
-Automate the reboot process of your router using Python and Selenium.  
-A headless Python automation script that logs into your router, navigates to the reboot page, and safely performs a reboot. Fully configurable via JSON for credentials, URLs, and button selectors. Ideal for routine network maintenance and remote administration.
+Rebooting your router… what a hassle, right?
+
+You could do it the old-fashioned way: manually power it off, or log into the admin portal and navigate the menus to hit that elusive reboot button—time-consuming and tedious.
+But what if you could simply double-click a batch file, sit back, and watch it perform the reboot flawlessly every time? That’s the magic this project brings.
+
+A headless Python automation script that safely performs a reboot. Fully configurable via JSON for credentials, URLs, and button selectors. Ideal for routine network maintenance and remote administration.
 
 ---
 
@@ -12,9 +16,9 @@ A headless Python automation script that logs into your router, navigates to the
 
 The **Router Reboot Automation** script performs the following:
 
-- Logs into your router's admin panel automatically.
-- Navigates to the reboot page.
-- Clicks the reboot button and confirms the action.
+- Navigate to the router admin panel.
+- Automatically parse credentials from JSON.
+- Perform a secure Reboot.
 - Operates in **headless mode** for a seamless experience.
 - Fully **configurable via JSON**, allowing easy updates to router credentials, URLs, and button selectors.
 
