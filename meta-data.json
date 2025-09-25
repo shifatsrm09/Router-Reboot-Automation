@@ -1,0 +1,21 @@
+{
+  "TP-Link_Archer_C7": {
+    "router_url": "http://192.168.0.1/#reboot",
+    "credentials": {
+      "username": "admin",
+      "password": "shihan70198"
+    },
+       "Driver": {
+      "path": "geckodriver.exe"
+    },
+    "login": {
+      "username_field": "//input[@name='username']",
+      "password_field": "//input[@type='password']",
+      "login_button": "//a[@title='LOG IN']"
+    },
+    "reboot": {
+      "main_button": "//a[@title='REBOOT']",
+      "confirm_button": "//div[@id='reboot-confirm-msg-btn-ok']//a[@title='REBOOT']"
+    }
+  }
+}
