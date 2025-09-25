@@ -1,6 +1,3 @@
-# Router-Reboot-Automation
-
-
 # 🚀 Router Reboot Automation
 
 **Rebooting your router… what a hassle!** 😫  
