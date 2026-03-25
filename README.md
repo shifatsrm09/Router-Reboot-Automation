@@ -1,10 +1,10 @@
 # 🚀 Router Reboot Automation
 
-**Rebooting your router… what a hassle!** 😫  
+**Rebooting your router… what a hassle!** 
 
-Do you really want to **manually power it off**, or **log into the admin portal** and hunt through menus just to hit that elusive reboot button? ⏳  
+Do you really want to **manually power it off**, or **log into the admin portal** and hunt through menus just to hit that elusive reboot button?  
 
-Imagine this instead: **double-click a batch file**, sit back, and watch as your router **reboots flawlessly** every time. ⚡✨  
+Imagine this instead: **double-click a batch file**, sit back, and watch as your router **reboots flawlessly** every time.  
 
 A **headless Python automation script** handles everything for you—safe, fast, and invisible.  
 Fully configurable via JSON for credentials, URLs, and button selectors.  
@@ -13,7 +13,7 @@ Perfect for **routine network maintenance** and **remote administration**.
 ---
 
 
-## 🔹 Project Description
+##  Project Description
 
 The **Router Reboot Automation** script performs the following:
 
@@ -31,7 +31,7 @@ This is particularly useful for:
 
 ---
 
-## 🛠️ Requirements / Dependencies
+##  Requirements / Dependencies
 
 - **Python 3.x**
 - **Selenium** Python package
@@ -41,7 +41,7 @@ This is particularly useful for:
 
 ---
 
-## ⚙️ Installation Instructions
+##  Installation Instructions
 
 1. **Clone the repository**:
 
